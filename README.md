@@ -176,3 +176,4 @@ Thank you for downloading and using the PrestaShop Open Source e-commerce soluti
 [modules-devdocs]: https://devdocs.prestashop-project.org/8/modules/
 [themes-devdocs]: https://devdocs.prestashop-project.org/8/themes/
 [bug-bounty]: https://www.prestashop-project.org/security/bug-bounty/
+# shop
